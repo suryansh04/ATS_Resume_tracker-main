@@ -1,0 +1,5 @@
+streamlit
+Pillow
+pdf2image
+poppler-utils
+google-generativeai
